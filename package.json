@@ -1,0 +1,30 @@
+{
+  "name": "weather-widget",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@mdi/svg": "^2.6.95",
+    "axios": "^0.18.0",
+    "dayjs": "^1.7.5",
+    "mdi-react": "^4.1.0",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-redux": "^5.0.7",
+    "react-scripts": "1.1.4",
+    "redux": "^4.0.0",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^3.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "deploy" : "npm run build&&gh-pages -d build"
+  },
+  "homepage": "https://shh8te.github.io/weather-widget",
+  "devDependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}

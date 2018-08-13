@@ -1,0 +1,1 @@
+{"version":3,"sources":["global-styles.css"],"names":[],"mappings":"AAAA,KACE,sBACA,8BACA,UAAa","file":"static/css/main.7a4ad985.css","sourcesContent":["body {\n  background-color: black;\n  font-family: Roboto, sans-serif;        \n  color: white;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/global-styles.css"],"sourceRoot":""}
